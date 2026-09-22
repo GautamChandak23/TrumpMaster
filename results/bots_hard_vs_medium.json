@@ -1,0 +1,28 @@
+{
+  "numSeeds": 2000,
+  "matchesPlayed": 8000,
+  "lineup": [
+    "hard",
+    "hard",
+    "medium",
+    "medium"
+  ],
+  "strategies": {
+    "hard": {
+      "meanMatchScore": 9.794,
+      "ci95": 0.107,
+      "winRate": 0.476,
+      "fairWinRate": 0.5,
+      "exactBidRate": 0.282,
+      "negativeDealRate": 0.307
+    },
+    "medium": {
+      "meanMatchScore": 8.751,
+      "ci95": 0.146,
+      "winRate": 0.524,
+      "fairWinRate": 0.5,
+      "exactBidRate": 0.384,
+      "negativeDealRate": 0.348
+    }
+  }
+}

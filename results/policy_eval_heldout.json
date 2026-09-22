@@ -1,0 +1,21 @@
+{
+  "episodes": 3000,
+  "seed_base": 900000,
+  "bidding": "surrogate bid model (sklearn HGB): holdout MAE 0.756, exact-bid rate 0.387  [fallback: ModuleNotFoundError]",
+  "ppo": {
+    "mean_score_per_deal": 2.2483333333333335,
+    "ci95": 0.11996411640261406,
+    "exact_bid_rate": 0.342
+  },
+  "random": {
+    "mean_score_per_deal": 1.3474333333333335,
+    "ci95": 0.1353168308014249,
+    "exact_bid_rate": 0.35833333333333334
+  },
+  "paired_gain": {
+    "mean": 0.9008999999999999,
+    "ci95": 0.15328084927608332,
+    "win_or_tie_rate": 0.8013333333333333,
+    "strict_win_rate": 0.407
+  }
+}

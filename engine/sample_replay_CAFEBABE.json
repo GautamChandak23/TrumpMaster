@@ -1,0 +1,5574 @@
+{
+  "replayFormatVersion": "1.0.0",
+  "rulesetVersion": "2.0.0",
+  "gameVersion": "0.3.0",
+  "build": "Build 03",
+  "matchSeed": "CAFEBABE",
+  "totalDeals": 8,
+  "generatedAt": "2026-08-05T21:14:52.373Z",
+  "events": [
+    {
+      "type": "deal:start",
+      "dealNumber": 1,
+      "dealerSeat": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 1,
+      "seat": 1,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 1,
+      "seat": 2,
+      "bid": 5,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 1,
+      "seat": 3,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 1,
+      "seat": 0,
+      "bid": 2,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 1,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 1,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 2,
+          "tricksWon": 3,
+          "scoreDelta": 2.1
+        },
+        {
+          "seat": 1,
+          "bid": 3,
+          "tricksWon": 2,
+          "scoreDelta": -3
+        },
+        {
+          "seat": 2,
+          "bid": 5,
+          "tricksWon": 5,
+          "scoreDelta": 5
+        },
+        {
+          "seat": 3,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 2,
+      "dealerSeat": 1
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 2,
+      "seat": 2,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 2,
+      "seat": 3,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 2,
+      "seat": 0,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 2,
+      "seat": 1,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 2,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 2,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 3,
+          "tricksWon": 2,
+          "scoreDelta": -3
+        },
+        {
+          "seat": 1,
+          "bid": 3,
+          "tricksWon": 1,
+          "scoreDelta": -3
+        },
+        {
+          "seat": 2,
+          "bid": 4,
+          "tricksWon": 7,
+          "scoreDelta": 4.3
+        },
+        {
+          "seat": 3,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 3,
+      "dealerSeat": 2
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 3,
+      "seat": 3,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 3,
+      "seat": 0,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 3,
+      "seat": 1,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 3,
+      "seat": 2,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 3,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 3,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 3,
+          "tricksWon": 2,
+          "scoreDelta": -3
+        },
+        {
+          "seat": 1,
+          "bid": 3,
+          "tricksWon": 4,
+          "scoreDelta": 3.1
+        },
+        {
+          "seat": 2,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        },
+        {
+          "seat": 3,
+          "bid": 4,
+          "tricksWon": 4,
+          "scoreDelta": 4
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 4,
+      "dealerSeat": 3
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 4,
+      "seat": 0,
+      "bid": 5,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 4,
+      "seat": 1,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 4,
+      "seat": 2,
+      "bid": 2,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 4,
+      "seat": 3,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 4,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 4,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 5,
+          "tricksWon": 4,
+          "scoreDelta": -5
+        },
+        {
+          "seat": 1,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        },
+        {
+          "seat": 2,
+          "bid": 2,
+          "tricksWon": 2,
+          "scoreDelta": 2
+        },
+        {
+          "seat": 3,
+          "bid": 3,
+          "tricksWon": 4,
+          "scoreDelta": 3.1
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 5,
+      "dealerSeat": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 5,
+      "seat": 1,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 5,
+      "seat": 2,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 5,
+      "seat": 3,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 5,
+      "seat": 0,
+      "bid": 2,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 5,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 5,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 2,
+          "tricksWon": 2,
+          "scoreDelta": 2
+        },
+        {
+          "seat": 1,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        },
+        {
+          "seat": 2,
+          "bid": 4,
+          "tricksWon": 5,
+          "scoreDelta": 4.1
+        },
+        {
+          "seat": 3,
+          "bid": 3,
+          "tricksWon": 3,
+          "scoreDelta": 3
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 6,
+      "dealerSeat": 1
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 6,
+      "seat": 2,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 6,
+      "seat": 3,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 6,
+      "seat": 0,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 6,
+      "seat": 1,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 6,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 6,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        },
+        {
+          "seat": 1,
+          "bid": 3,
+          "tricksWon": 4,
+          "scoreDelta": 3.1
+        },
+        {
+          "seat": 2,
+          "bid": 3,
+          "tricksWon": 3,
+          "scoreDelta": 3
+        },
+        {
+          "seat": 3,
+          "bid": 4,
+          "tricksWon": 3,
+          "scoreDelta": -4
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 7,
+      "dealerSeat": 2
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 7,
+      "seat": 3,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 7,
+      "seat": 0,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 7,
+      "seat": 1,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 7,
+      "seat": 2,
+      "bid": 5,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 7,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 7,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 3,
+          "tricksWon": 3,
+          "scoreDelta": 3
+        },
+        {
+          "seat": 1,
+          "bid": 3,
+          "tricksWon": 3,
+          "scoreDelta": 3
+        },
+        {
+          "seat": 2,
+          "bid": 5,
+          "tricksWon": 3,
+          "scoreDelta": -5
+        },
+        {
+          "seat": 3,
+          "bid": 3,
+          "tricksWon": 4,
+          "scoreDelta": 3.1
+        }
+      ]
+    },
+    {
+      "type": "deal:start",
+      "dealNumber": 8,
+      "dealerSeat": 3
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 8,
+      "seat": 0,
+      "bid": 4,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 8,
+      "seat": 1,
+      "bid": 5,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 8,
+      "seat": 2,
+      "bid": 3,
+      "elapsedMs": 0
+    },
+    {
+      "type": "bid:placed",
+      "dealNumber": 8,
+      "seat": 3,
+      "bid": 2,
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 1,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 2,
+        "id": "S2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 1,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 4,
+        "id": "S4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 1,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 8,
+        "id": "S8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 1,
+      "seat": 3,
+      "card": {
+        "suit": "S",
+        "rank": 5,
+        "id": "S5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 2,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 2,
+        "id": "C2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 2,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 3,
+        "id": "C3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 2,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 5,
+        "id": "C5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 2,
+      "seat": 1,
+      "card": {
+        "suit": "C",
+        "rank": 8,
+        "id": "C8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 3,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 3,
+        "id": "D3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 3,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 9,
+        "id": "D9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 3,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 10,
+        "id": "D10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 3,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 14,
+        "id": "D14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 4,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 3,
+        "id": "H3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 4,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 5,
+        "id": "H5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 4,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 7,
+        "id": "H7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 4,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 10,
+        "id": "H10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 5,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 5,
+        "id": "D5"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 5,
+      "seat": 0,
+      "card": {
+        "suit": "D",
+        "rank": 4,
+        "id": "D4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 5,
+      "seat": 1,
+      "card": {
+        "suit": "D",
+        "rank": 6,
+        "id": "D6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 5,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 11,
+        "id": "D11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 6,
+      "seat": 2,
+      "card": {
+        "suit": "D",
+        "rank": 2,
+        "id": "D2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 6,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 7,
+        "id": "D7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 6,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 3,
+        "id": "S3"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 6,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 6,
+        "id": "S6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 7,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 6,
+        "id": "H6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 7,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 8,
+        "id": "H8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 7,
+      "seat": 3,
+      "card": {
+        "suit": "H",
+        "rank": 14,
+        "id": "H14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 7,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 9,
+        "id": "H9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 8,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 8,
+        "id": "D8"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 8,
+      "seat": 0,
+      "card": {
+        "suit": "S",
+        "rank": 12,
+        "id": "S12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 8,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 14,
+        "id": "S14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 8,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 2,
+        "id": "H2"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 9,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 7,
+        "id": "S7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 9,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 11,
+        "id": "S11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 9,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 9,
+        "id": "C9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 9,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 6,
+        "id": "C6"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 10,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 4,
+        "id": "C4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 10,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 10,
+        "id": "C10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 10,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 13,
+        "id": "C13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 10,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 9,
+        "id": "S9"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 11,
+      "seat": 1,
+      "card": {
+        "suit": "S",
+        "rank": 10,
+        "id": "S10"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 11,
+      "seat": 2,
+      "card": {
+        "suit": "S",
+        "rank": 13,
+        "id": "S13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 11,
+      "seat": 3,
+      "card": {
+        "suit": "C",
+        "rank": 11,
+        "id": "C11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 11,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 7,
+        "id": "C7"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 12,
+      "seat": 2,
+      "card": {
+        "suit": "H",
+        "rank": 4,
+        "id": "H4"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 12,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 12,
+        "id": "D12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 12,
+      "seat": 0,
+      "card": {
+        "suit": "H",
+        "rank": 11,
+        "id": "H11"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 12,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 12,
+        "id": "H12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 13,
+      "seat": 1,
+      "card": {
+        "suit": "H",
+        "rank": 13,
+        "id": "H13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 13,
+      "seat": 2,
+      "card": {
+        "suit": "C",
+        "rank": 12,
+        "id": "C12"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 13,
+      "seat": 3,
+      "card": {
+        "suit": "D",
+        "rank": 13,
+        "id": "D13"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "card:played",
+      "dealNumber": 8,
+      "trickNumber": 13,
+      "seat": 0,
+      "card": {
+        "suit": "C",
+        "rank": 14,
+        "id": "C14"
+      },
+      "elapsedMs": 0
+    },
+    {
+      "type": "deal:scored",
+      "dealNumber": 8,
+      "scores": [
+        {
+          "seat": 0,
+          "bid": 4,
+          "tricksWon": 1,
+          "scoreDelta": -4
+        },
+        {
+          "seat": 1,
+          "bid": 5,
+          "tricksWon": 6,
+          "scoreDelta": 5.1
+        },
+        {
+          "seat": 2,
+          "bid": 3,
+          "tricksWon": 4,
+          "scoreDelta": 3.1
+        },
+        {
+          "seat": 3,
+          "bid": 2,
+          "tricksWon": 2,
+          "scoreDelta": 2
+        }
+      ]
+    },
+    {
+      "type": "game:end",
+      "finalScores": [
+        {
+          "seat": 0,
+          "score": -11.9,
+          "negativeDealCount": 5,
+          "thinkTimeMs": 0
+        },
+        {
+          "seat": 1,
+          "score": 0.29999999999999893,
+          "negativeDealCount": 4,
+          "thinkTimeMs": 0
+        },
+        {
+          "seat": 2,
+          "score": 12.5,
+          "negativeDealCount": 2,
+          "thinkTimeMs": 0
+        },
+        {
+          "seat": 3,
+          "score": 3.2,
+          "negativeDealCount": 3,
+          "thinkTimeMs": 0
+        }
+      ],
+      "ranking": [
+        2,
+        3,
+        1,
+        0
+      ]
+    }
+  ],
+  "finalScores": [
+    {
+      "seat": 0,
+      "score": -11.9,
+      "negativeDealCount": 5,
+      "thinkTimeMs": 0
+    },
+    {
+      "seat": 1,
+      "score": 0.29999999999999893,
+      "negativeDealCount": 4,
+      "thinkTimeMs": 0
+    },
+    {
+      "seat": 2,
+      "score": 12.5,
+      "negativeDealCount": 2,
+      "thinkTimeMs": 0
+    },
+    {
+      "seat": 3,
+      "score": 3.2,
+      "negativeDealCount": 3,
+      "thinkTimeMs": 0
+    }
+  ],
+  "ranking": [
+    2,
+    3,
+    1,
+    0
+  ]
+}

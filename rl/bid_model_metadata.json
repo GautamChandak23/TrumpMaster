@@ -1,0 +1,69 @@
+{
+  "best_model": "xgboost",
+  "feature_cols": [
+    "S_length",
+    "H_length",
+    "D_length",
+    "C_length",
+    "longest_suit",
+    "shortest_suit",
+    "voids",
+    "singletons",
+    "doubletons",
+    "hcp",
+    "aces",
+    "kings",
+    "queens",
+    "jacks",
+    "tens",
+    "S_hcp",
+    "H_hcp",
+    "D_hcp",
+    "C_hcp",
+    "trump_length",
+    "trump_hcp",
+    "highest_trump",
+    "lowest_trump",
+    "average_rank",
+    "highest_card",
+    "lowest_card",
+    "high_cards",
+    "S_average_rank",
+    "S_highest",
+    "S_lowest",
+    "H_average_rank",
+    "H_highest",
+    "H_lowest",
+    "D_average_rank",
+    "D_highest",
+    "D_lowest",
+    "C_average_rank",
+    "C_highest",
+    "C_lowest"
+  ],
+  "results": {
+    "linear_regression": {
+      "mae": 0.7790246605873108,
+      "rmse": 0.9832559309954391,
+      "r2": 0.6639653444290161,
+      "exact_bid_rate": 0.3745625,
+      "within_1_rate": 0.86325
+    },
+    "random_forest": {
+      "mae": 0.770488223718141,
+      "rmse": 0.9738327024214454,
+      "r2": 0.67037537511127,
+      "exact_bid_rate": 0.374875,
+      "within_1_rate": 0.868125
+    },
+    "xgboost": {
+      "mae": 0.7571753859519958,
+      "rmse": 0.9577206678068523,
+      "r2": 0.6811923980712891,
+      "exact_bid_rate": 0.38075,
+      "within_1_rate": 0.8733125
+    }
+  },
+  "min_bid": 2,
+  "max_bid": 13
+}

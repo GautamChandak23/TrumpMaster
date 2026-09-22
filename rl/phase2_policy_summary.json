@@ -1,0 +1,32 @@
+{
+  "pre_finetune_score": 1.9084999999999999,
+  "random_baseline": 1.3355000000000001,
+  "final_iteration": 300,
+  "best_iteration": 250,
+  "best_eval_score": 2.7655000000000003,
+  "final_checkpoint": "phase2_policy.pt",
+  "best_checkpoint": "phase2_policy_best.pt",
+  "args": {
+    "init_checkpoint": "phase1_policy.pt",
+    "bid_model": "bid_model.joblib",
+    "bid_metadata": "bid_model_metadata.json",
+    "iterations": 300,
+    "deals_per_iteration": 64,
+    "lr": 0.0001,
+    "gamma": 1.0,
+    "lam": 0.95,
+    "clip_eps": 0.2,
+    "entropy_coef": 0.01,
+    "value_coef": 0.5,
+    "ppo_epochs": 4,
+    "minibatch_size": 256,
+    "eval_every": 10,
+    "eval_episodes": 200,
+    "seed": 0,
+    "out": "phase2_policy.pt",
+    "device": "cpu",
+    "lr_schedule": "linear",
+    "final_lr_frac": 0.1,
+    "kl_coef": 0.01
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "episodes": 3000,
+  "seed_base": 900000,
+  "bidding": "trained XGBoost bid model",
+  "ppo": {
+    "mean_score_per_deal": 2.2582,
+    "ci95": 0.11963576164845045,
+    "exact_bid_rate": 0.3446666666666667
+  },
+  "random": {
+    "mean_score_per_deal": 1.2949,
+    "ci95": 0.13591170269812958,
+    "exact_bid_rate": 0.3463333333333333
+  },
+  "paired_gain": {
+    "mean": 0.9633,
+    "ci95": 0.15532731776086278,
+    "win_or_tie_rate": 0.8026666666666666,
+    "strict_win_rate": 0.407
+  }
+}

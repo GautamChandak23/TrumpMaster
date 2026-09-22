@@ -1,0 +1,36 @@
+{
+  "numSeeds": 2000,
+  "matchesPlayed": 8000,
+  "lineup": [
+    "hard",
+    "medium",
+    "easy",
+    "easy"
+  ],
+  "strategies": {
+    "hard": {
+      "meanMatchScore": 9.384,
+      "ci95": 0.15,
+      "winRate": 0.254,
+      "fairWinRate": 0.25,
+      "exactBidRate": 0.298,
+      "negativeDealRate": 0.317
+    },
+    "medium": {
+      "meanMatchScore": 9.611,
+      "ci95": 0.202,
+      "winRate": 0.332,
+      "fairWinRate": 0.25,
+      "exactBidRate": 0.367,
+      "negativeDealRate": 0.344
+    },
+    "easy": {
+      "meanMatchScore": 5.393,
+      "ci95": 0.156,
+      "winRate": 0.415,
+      "fairWinRate": 0.5,
+      "exactBidRate": 0.352,
+      "negativeDealRate": 0.414
+    }
+  }
+}
